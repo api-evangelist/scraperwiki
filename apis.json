@@ -1,0 +1,69 @@
+{
+    "name": "ScraperWiki",
+    "description": "ScraperWiki the company is now called @sensiblecodeio. ScraperWiki the product is https:\/\/t.co\/k0MbgXFINE. Also try our other product https:\/\/t.co\/gp7nY2c3w5.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/247-scraperwiki.jpg",
+    "tags": [
+        "have api",
+        "scraping",
+        "wiki"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/scraperwiki\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "ScraperWiki",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/247-scraperwiki.jpg",
+            "humanURL": "https:\/\/scraperwiki.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/scraperwiki-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/scraperwiki-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "https:\/\/blog.scraperwiki.com\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "https:\/\/blog.scraperwiki.com\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/scraperwiki"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/scraperwiki"
+        },
+        {
+            "type": "Email",
+            "url": "hello@scraperwiki.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/scraperwiki"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/scraperwiki"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/scraperwiki.com\/"
+        }
+    ]
+}
